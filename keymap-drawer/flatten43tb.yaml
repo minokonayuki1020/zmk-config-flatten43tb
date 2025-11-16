@@ -126,7 +126,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - LANGUAGE 4
   - {t: LANG ZENKAKUHANKAKU, type: held}
   - LANG4
   - {t: ▽, type: trans}
