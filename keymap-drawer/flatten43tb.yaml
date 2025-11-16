@@ -90,9 +90,9 @@ layers:
   - F12
   NUM:
   - '-'
-  - KP 7
-  - KP 8
-  - KP 9
+  - KP 1
+  - KP 2
+  - KP 3
   - +
   - ^
   - '&'
@@ -112,9 +112,9 @@ layers:
   - $
   - '%'
   - {t: KP 0, h: LEFT SHIFT}
-  - KP 1
-  - KP 2
-  - KP 3
+  - KP 7
+  - KP 8
+  - KP 9
   - .
   - '='
   - {t: ▽, type: trans}
@@ -125,7 +125,7 @@ layers:
   - \
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - KP 0
   - LANGUAGE 4
   - {t: LANG ZENKAKUHANKAKU, type: held}
   - LANG4
