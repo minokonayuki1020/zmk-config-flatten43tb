@@ -46,9 +46,9 @@ layers:
   - DEL
   FUNCTION:
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - '1'
+  - '2'
+  - '3'
   - {t: ▽, type: trans}
   - F1
   - F2
@@ -56,9 +56,9 @@ layers:
   - F4
   - F5
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - '4'
+  - '5'
+  - '6'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - F13
@@ -68,9 +68,9 @@ layers:
   - F9
   - F10
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - '7'
+  - '8'
+  - '9'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
