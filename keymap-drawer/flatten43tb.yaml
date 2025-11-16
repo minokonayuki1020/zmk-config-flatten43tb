@@ -13,7 +13,7 @@ layers:
   - P
   - A
   - S
-  - D
+  - C
   - F
   - G
   - Sft+Gui+S
@@ -41,7 +41,7 @@ layers:
   - {t: '&to_layer_0 INT_HENKAN', h: '6'}
   - {t: SPACE, h: NUM}
   - {t: '&to_layer_0 INT_MUHENKAN', h: ARROW}
-  - BACKSPACE
+  - {t: BACKSPACE, h: MOUSE}
   - {t: ENTER, h: FUNCTION}
   - DEL
   FUNCTION:
@@ -217,7 +217,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - {type: held}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   SCROLL:
