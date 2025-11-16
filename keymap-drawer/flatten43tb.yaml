@@ -123,12 +123,12 @@ layers:
   - '{'
   - '}'
   - \
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - LANGUAGE 1
+  - LANGUAGE 2
   - KP 0
-  - LANGUAGE 4
-  - {t: LANG ZENKAKUHANKAKU, type: held}
-  - LANG4
+  - {t: ▽, type: trans}
+  - {type: held}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - '|'
