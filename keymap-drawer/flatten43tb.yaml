@@ -55,11 +55,11 @@ layers:
   - F3
   - F4
   - F5
-  - {t: ▽, type: trans}
+  - Gui+Sft+S
   - '4'
   - '5'
   - '6'
-  - {t: ▽, type: trans}
+  - Gui+C
   - {t: ▽, type: trans}
   - F13
   - F6
@@ -67,11 +67,11 @@ layers:
   - F8
   - F9
   - F10
-  - {t: ▽, type: trans}
+  - Sft+Gui+4
   - '7'
   - '8'
   - '9'
-  - {t: ▽, type: trans}
+  - Gui+V
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
