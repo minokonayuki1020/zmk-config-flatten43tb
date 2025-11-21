@@ -161,7 +161,7 @@ layers:
   - Gui+Sft+RIGHT ARROW
   - {t: ▽, type: trans}
   - VOL DN
-  - {t: ▽, type: trans}
+  - Gui+Sft+S
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -173,7 +173,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {type: held}
-  - {t: ▽, type: trans}
+  - Sft+Gui+4
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   MOUSE:
