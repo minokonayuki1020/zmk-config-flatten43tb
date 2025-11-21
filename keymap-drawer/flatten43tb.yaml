@@ -89,21 +89,21 @@ layers:
   - {t: ▽, type: trans}
   - F12
   NUM:
-  - '-'
+  - {t: ▽, type: trans}
   - KP 1
-  - KP 2
-  - KP 3
   - +
+  - /
+  - {t: ▽, type: trans}
   - ^
   - '&'
   - '~'
   - (
   - )
-  - /
+  - {t: ▽, type: trans}
   - KP 4
-  - KP 5
+  - '-'
   - KP 6
-  - '*'
+  - {t: ▽, type: trans}
   - Ctl+Alt+KP 0
   - _
   - '!'
@@ -113,7 +113,7 @@ layers:
   - '%'
   - {t: KP 0, h: LEFT SHIFT}
   - KP 7
-  - KP 8
+  - '*'
   - KP 9
   - '='
   - .
@@ -125,7 +125,7 @@ layers:
   - \
   - LANGUAGE 1
   - LANGUAGE 2
-  - KP 0
+  - '%'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
