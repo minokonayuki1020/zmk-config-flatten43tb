@@ -146,7 +146,7 @@
 &mt LEFT_WIN INT_HENKAN  &mt LEFT_SHIFT INT_MUHENKAN  &kp LEFT_ALT    &trans                   &trans             &trans               &kp LS(LG(NUMBER_4))  &trans                          &trans
             >;
 
-            sensor-bindings = <&inc_dec_kp LS(C_BRIGHTNESS_DEC) C_BRI_INC>;
+            sensor-bindings = <&inc_dec_kp C_BRIGHTNESS_DEC C_BRIGHTNESS_INC>;
         };
 
         MOUSE {
