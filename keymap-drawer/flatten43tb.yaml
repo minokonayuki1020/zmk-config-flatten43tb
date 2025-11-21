@@ -22,27 +22,27 @@ layers:
   - J
   - K
   - L
-  - ''''
+  - '"'
   - {t: Z, h: LEFT SHIFT}
   - X
   - C
   - V
   - B
-  - ':'
+  - '~'
   - ;
   - N
   - M
   - ','
   - .
   - /
-  - LCTRL
   - LEFT WIN
+  - LEFT SHIFT
   - LEFT ALT
-  - {t: '&to_layer_0 INT_HENKAN', h: '6'}
-  - {t: SPACE, h: NUM}
-  - {t: '&to_layer_0 INT_MUHENKAN', h: ARROW}
+  - {t: '&to_layer_0 ESCAPE', h: '6'}
+  - {t: SPACE, h: FUNCTION}
+  - {t: '&to_layer_0 TAB', h: ARROW}
   - {t: BACKSPACE, h: MOUSE}
-  - {t: ENTER, h: FUNCTION}
+  - {t: ENTER, h: NUM}
   - DEL
   FUNCTION:
   - {t: ▽, type: trans}
@@ -83,10 +83,10 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
   - {type: held}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - F12
   NUM:
   - '-'
@@ -115,9 +115,9 @@ layers:
   - KP 7
   - KP 8
   - KP 9
-  - .
   - '='
-  - {t: ▽, type: trans}
+  - .
+  - ':'
   - '['
   - ']'
   - '{'
@@ -127,13 +127,13 @@ layers:
   - LANGUAGE 2
   - KP 0
   - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - {type: held}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
   - '|'
   ARROW:
-  - ESCAPE
+  - {t: ▽, type: trans}
   - Ctl+Sft+TAB
   - UP ARROW
   - Ctl+TAB
@@ -148,27 +148,27 @@ layers:
   - DOWN ARROW
   - RIGHT ARROW
   - END
+  - VOLUME UP
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - ''''
   - LEFT SHIFT
   - Gui+Sft+LEFT ARROW
   - {t: ▽, type: trans}
   - Gui+Sft+RIGHT ARROW
   - {t: ▽, type: trans}
+  - VOL DN
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - INT HENKAN
+  - INT MUHENKAN
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
