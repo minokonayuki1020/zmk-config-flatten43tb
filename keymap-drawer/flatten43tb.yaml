@@ -80,7 +80,7 @@ layers:
   - {t: ▽, type: trans}
   - F11
   - LEFT WIN
-  - {t: ▽, type: trans}
+  - LEFT SHIFT
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {type: held}
@@ -124,7 +124,7 @@ layers:
   - '}'
   - \
   - {t: LANGUAGE 1, h: LEFT WIN}
-  - LANGUAGE 2
+  - {t: LANGUAGE 2, h: LEFT SHIFT}
   - '%'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -168,7 +168,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: INT HENKAN, h: LEFT WIN}
-  - INT MUHENKAN
+  - {t: INT MUHENKAN, h: LEFT SHIFT}
   - VOL DN
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
