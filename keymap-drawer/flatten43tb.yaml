@@ -116,7 +116,7 @@ layers:
   - '*'
   - KP 9
   - '='
-  - .
+  - /
   - ':'
   - '['
   - ']'
@@ -148,7 +148,7 @@ layers:
   - DOWN ARROW
   - RIGHT ARROW
   - END
-  - VOLUME UP
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -157,10 +157,10 @@ layers:
   - ''''
   - LEFT SHIFT
   - Gui+Sft+LEFT ARROW
-  - {t: ▽, type: trans}
+  - VOLUME UP
   - Gui+Sft+RIGHT ARROW
   - {t: ▽, type: trans}
-  - VOL DN
+  - {t: ▽, type: trans}
   - Gui+Sft+S
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -169,7 +169,7 @@ layers:
   - {t: ▽, type: trans}
   - INT HENKAN
   - INT MUHENKAN
-  - {t: ▽, type: trans}
+  - VOL DN
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {type: held}
